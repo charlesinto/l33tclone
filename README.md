@@ -28,7 +28,7 @@ git clone https://github.com/tolaoyelola/l33tclone.git
 2. Install the required dependencies:
 
 ```bash
-cd l33clone
+cd l33tclone
 ```
 ``` bash
 npm install

@@ -21,17 +21,18 @@ L33tClone is an innovative online platform designed for programming enthusiasts 
 To run this project locally, you need to have Node.js and npm (Node Package Manager) installed. If you haven't installed them yet, you can download them from [nodejs.org](https://nodejs.org/).
 
 1. Clone the repository:
-
-## bash
-
+``` bash
 git clone https://github.com/tolaoyelola/l33tclone.git
+```
 
 2. Install the required dependencies:
 
-## bash
-
+```bash
 cd leetcode
+```
+``` bash
 npm install
+```
 
 3. Set up your database and authentication:
 
@@ -93,7 +94,7 @@ To get started with L33tClone, follow these steps:
 
 For more details and updates, please visit the [L33tClone GitHub Repository](https://github.com/tolaoyelola/L33tClone).
 
-Feel free to reach out to Tola Oyelola at [tola@ootola.com](mailto:tola@ootola.com) for any inquiries or suggestions.
+Feel free to reach out to at: [tola@ootola.com](mailto:tola@ootola.com) for any inquiries or suggestions.
 
 Feel free to explore the code and adapt it for your own projects or learning purposes.
 
@@ -109,21 +110,19 @@ This project is licensed under the [MIT License](LICENSE).
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+#### Getting Started
 
 First, run the development server:
 
-## bash
+```bash npm run dev ```
 
-npm run dev
+#### or
 
-# or
+```bash yarn dev ```
 
-yarn dev
+#### or
 
-# or
-
-pnpm dev
+```bash pnpm dev ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
